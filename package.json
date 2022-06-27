@@ -7,5 +7,8 @@
     "test": "npm run index.js"
   },
   "author": "João Siqueira",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
 }
