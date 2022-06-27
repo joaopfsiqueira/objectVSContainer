@@ -1,0 +1,11 @@
+{
+  "name": "objectvscontainer",
+  "version": "1.0.0",
+  "description": "Training clean code with object ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "author": "João Siqueira",
+  "license": "ISC"
+}
